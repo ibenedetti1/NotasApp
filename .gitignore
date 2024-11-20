@@ -1,45 +1,13 @@
-# Archivos de configuración y caché de Android Studio
-.idea/
-*.iml
-*.hprof
+# Archivos de configuración local
+/local.properties
 
-# Configuración local específica del entorno
-local.properties
+# Caché y compilación
 /.gradle/
-/.externalNativeBuild/
-.cxx/
-
-# Archivos y carpetas de compilación
 /build/
-/app/build/
 
-# Archivos de caché y logs
-*.log
-.gradle/
-.cache/
+# Configuración de Android Studio
+/.idea/
 
-# Capturas de pantalla generadas
-/captures/
-
-# Configuraciones específicas del sistema operativo
+# Archivos específicos del sistema operativo
 .DS_Store
 Thumbs.db
-
-# Archivos generados durante la construcción
-*.apk
-*.ap_
-*.dex
-*.class
-*.so
-*.tmp
-*.lock
-*.jar
-*.war
-
-# Archivos de prueba
-test-results/
-coverage/
-
-# Configuración de empaquetado
-*.keystore
-*.jks
