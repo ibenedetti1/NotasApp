@@ -41,6 +41,7 @@ Abre tu terminal y ejecuta:
 ```bash
 git clone <URL_DEL_REPOSITORIO>
 cd NotasApp
+```
 
 ---
 
